@@ -1,0 +1,54 @@
+## Commonly Asked Algorithms
+This repository includes implementations of essential algorithms frequently asked in major tech companies:
+
+### Searching Algorithms
+- Binary Search
+- Ternary Search
+- Interpolation Search
+- Jump Search
+
+### Sorting Algorithms
+- Quick Sort
+- Merge Sort
+- Heap Sort
+- Counting Sort
+- Radix Sort
+
+### String Algorithms
+- KMP (Knuth-Morris-Pratt) Algorithm
+- Rabin-Karp Algorithm
+- Z Algorithm
+- Manacher’s Algorithm (Longest Palindromic Substring)
+- Suffix Array and LCP
+
+### Dynamic Programming
+- Longest Common Subsequence (LCS)
+- Longest Increasing Subsequence (LIS)
+- Knapsack Problem (0/1 and Fractional)
+- Matrix Chain Multiplication
+- Coin Change Problem
+- Rod Cutting Problem
+
+### Tree and Graph Traversals
+- Inorder, Preorder, Postorder Traversals
+- Level Order Traversal
+- Lowest Common Ancestor (LCA)
+- Trie Data Structure
+
+### Graph Algorithms
+- Depth First Search (DFS)
+- Breadth First Search (BFS)
+- Dijkstra’s Algorithm
+- Bellman-Ford Algorithm
+- Floyd-Warshall Algorithm
+- Kruskal’s Algorithm
+- Prim’s Algorithm
+- Topological Sorting
+
+### Advanced Topics
+- Disjoint Set Union (DSU) / Union-Find
+- Bit Manipulation Tricks
+- Segment Trees
+- Fenwick Tree (Binary Indexed Tree)
+- Convex Hull (Graham’s Scan)
+- Fast Fourier Transform (FFT)
